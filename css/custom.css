@@ -9,7 +9,7 @@ body{
 .heading{
   background-image: url(../img/header.jpg);
   background-position: center;
-  background-color:#002e54;
+  !--background-color:#002e54;--!
   background-repeat: no-repeat;
   width:100%px;
   height: 500px;
