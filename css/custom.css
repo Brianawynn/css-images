@@ -1,7 +1,7 @@
 body{
   background-image: url(../img/burlap.jpg);
   width:100%px;
-  background-color:#f2dfaa;
+  <!--background-color:#f2dfaa;-->
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -9,7 +9,7 @@ body{
 .heading{
   background-image: url(../img/header.jpg);
   background-position: center;
-  !--background-color:#002e54;--!
+  <!--background-color:#002e54;-->
   background-repeat: no-repeat;
   width:100%px;
   height: 500px;
