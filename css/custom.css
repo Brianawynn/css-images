@@ -1,13 +1,14 @@
 body{
   background-image: url(../img/burlap.jpg);
   height: auto;
-  width:100%;
+  width:1200px;
 }
 
 .heading{
   background-image: url(../img/header.jpg);
-  width:100%;
+  width:1200px;
   height: 400px;
+  margin-bottom: 20px;
 }
 
 #header{
@@ -16,3 +17,5 @@ body{
   font-size: 24px;
   color: #000;
 }
+
+
