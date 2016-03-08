@@ -1,7 +1,7 @@
 body{
-  background-image: url(../img/burlap.jpg);
+  background-image: @url(../img/burlap.jpg);
 }
 
 .heading{
-  background-image: url(../img/header.jpg);
+  background-image: @url(../img/header.jpg);
 }
