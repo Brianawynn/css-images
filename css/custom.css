@@ -1,23 +1,30 @@
 body{
   background-image: url(../img/burlap.jpg);
-  height: auto;
-  width:1200px;
+  width:100%px;
+  background-color:#f2dfaa;
+  background-repeat: no-repeat;
 }
 
 .heading{
   background-image: url(../img/header.jpg);
-  width:1200px;
+  background-position: center;
+  background-color:#002e54;
+  background-repeat: no-repeat;
+  width:100%px;
   height: 500px;
   margin: auto;
+  margin-bottom: 20px;
 }
 
 #header{
   text-align: center;
   text-decoration: bold;
-  font-size: 24px;
+  font-size: 40px;
   color: #000;
   position: relative;
-  top:35%;
+  top:40%;
+  width:100%;
+  
 }
 
 
